@@ -1,0 +1,1 @@
+This repository contains the assignments related to UML in which different approaches of UML is used to solve many kinds of UML problems and these are the solutions for those assignment questions in .png format
